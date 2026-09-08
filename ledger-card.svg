@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="362" viewBox="0 0 480 362" role="img" aria-label="Experience and stack summary">
+<rect x="0.5" y="0.5" width="479" height="361" rx="10" fill="#0E1A24" stroke="#22394A"/><title>Experience and stack</title>
+<text x="26" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="0.8" fill="#DFA33F">what I do and what I do it with</text>
+<line x1="18" y1="46" x2="462" y2="46" stroke="#22394A"/>
+<line x1="46" y1="46" x2="46" y2="318" stroke="#22394A"/>
+<line x1="152" y1="46" x2="152" y2="318" stroke="#22394A"/>
+<line x1="18" y1="80" x2="462" y2="80" stroke="#22394A" stroke-opacity="0.6"/>
+<text x="26" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#57ABC6">01</text>
+<text x="58" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#57ABC6">Role</text>
+<text x="164" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#E9E4D8">Senior Market Intelligence Analyst, M.Cassab</text>
+<line x1="18" y1="114" x2="462" y2="114" stroke="#22394A" stroke-opacity="0.6"/>
+<text x="26" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22394A">02</text>
+<text x="58" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#57ABC6">Markets</text>
+<text x="164" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#E9E4D8">Brazil, China, Argentina, Colombia, Paraguay</text>
+<line x1="18" y1="148" x2="462" y2="148" stroke="#22394A" stroke-opacity="0.6"/>
+<text x="26" y="136" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22394A">03</text>
+<text x="58" y="136" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#57ABC6">Sectors</text>
+<text x="164" y="136" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#E9E4D8">Animal health, pharmaceutical, chemical</text>
+<line x1="18" y1="182" x2="462" y2="182" stroke="#22394A" stroke-opacity="0.6"/>
+<text x="26" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22394A">04</text>
+<text x="58" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#57ABC6">Domain</text>
+<text x="164" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#E9E4D8">Sales, inventory, supply chain, pricing</text>
+<line x1="18" y1="216" x2="462" y2="216" stroke="#22394A" stroke-opacity="0.6"/>
+<text x="26" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22394A">05</text>
+<text x="58" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#57ABC6">BI</text>
+<text x="164" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#E9E4D8">Power BI Premium, Fabric, DAX, Power Query</text>
+<line x1="18" y1="250" x2="462" y2="250" stroke="#22394A" stroke-opacity="0.6"/>
+<text x="26" y="238" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22394A">06</text>
+<text x="58" y="238" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#57ABC6">Data</text>
+<text x="164" y="238" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#E9E4D8">SQL Server, Supabase, Python, TOTVS extracts</text>
+<line x1="18" y1="284" x2="462" y2="284" stroke="#22394A" stroke-opacity="0.6"/>
+<text x="26" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22394A">07</text>
+<text x="58" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#57ABC6">AI</text>
+<text x="164" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#E9E4D8">n8n multi-agent, LLM pipelines, Claude Code</text>
+<line x1="18" y1="318" x2="462" y2="318" stroke="#22394A" stroke-opacity="0.6"/>
+<text x="26" y="306" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#22394A">08</text>
+<text x="58" y="306" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#57ABC6">Audience</text>
+<text x="164" y="306" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#E9E4D8">Directors, shareholders, ops leadership</text>
+</svg>
