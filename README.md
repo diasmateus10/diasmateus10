@@ -1,19 +1,13 @@
 # README
-Olá, 
 
-Sou Analista Sênior de Inteligência de Mercado com +4 anos convertendo dados complexos em inteligência estratégica para tomada de decisão na alta gestão.
+Converto dados complexos em inteligência estratégica para alta gestão há mais de 4 anos. Cenários de custo, mapeamento de mercado, relatórios de vendas, estoque e suprimentos para diretoria, acionistas e operações internacionais (China, Argentina, Colômbia e Paraguai).
 
-Atuo com modelagem avançada, desenvolvimento de dashboards gerenciais e automação de relatórios — entregando visibilidade operacional e competitiva para diretoria, acionistas e operações internacionais (China, Argentina, Colômbia e Paraguai).
+Nos últimos anos, levei IA generativa do experimento para a produção dentro do meu fluxo de trabalho:
 
-Especializado em Power BI (DAX avançado, Power Query, modelagem estrela), SQL Server e Python para ETL e análise de dados. Tenho incorporado IA generativa e automação de fluxos ao meu processo de trabalho, com uso prático de:
-— Scripts SQL/Python acelerando o desenvolvimento de pipelines e soluções de dados
-— n8n para orquestração de fluxos automatizados entre fontes de dados, sistemas e relatórios
-— Power Automate + VBA para automação de processos internos e distribuição de relatórios
-— Integração de fontes como TOTVS, BI corporativo e dados externos (IBGE, agências reguladoras, ComexStat)
+— Arquitetura multiagente de dados (n8n + Supabase + Claude API): orquestrador que roteia perguntas de negócio para agentes especialistas de Vendas, Estoque e Produto, permitindo consultas em linguagem natural sobre dados corporativos
+— Pipelines de conteúdo e relatórios end-to-end com n8n, APIs de IA e integrações nativas (geração, validação e publicação sem intervenção humana)
+— Desenvolvimento assistido por IA no dia a dia com Claude Code e Codex CLI, acelerando entrega de SQL, Python, DAX e Power Query
 
-Histórico de entregas:
-— Cenários de negócio para redução de custos e mapeamento de mercado (saúde animal, farmacêutico, químico)
-— Dashboards e relatórios de vendas, estoque e suprimentos para diretoria e acionistas
-— Automação de processos que eliminou trabalho manual repetitivo em ciclos de análise
-— Análise de dados de comércio exterior para inteligência competitiva e posicionamento de produto
+Base técnica: Power BI Premium (DAX avançado, Power Query, modelagem estrela), SQL Server, Python para ETL e análise, Power Automate e VBA para automação de processos e distribuição de relatórios.
 
+Fontes que integro: TOTVS, BI corporativo, ComexStat, IBGE e agências reguladoras — usadas em inteligência competitiva e posicionamento de produto nos setores de saúde animal, farmacêutico e químico
