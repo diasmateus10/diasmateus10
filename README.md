@@ -35,7 +35,7 @@ directors and shareholders.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **Sales Booster** <sub>internal, M.Cassab</sub> | Conversational agent that answers sales, inventory and stock-out questions in Teams by generating DAX against a Fabric semantic model | n8n, Power BI REST API, DAX, Azure Entra ID |
+| **Sales Booster** <sub>internal</sub> | Conversational agent that answers sales, inventory and stock-out questions in Teams by generating DAX against a Fabric semantic model | n8n, Power BI REST API, DAX, Azure Entra ID |
 | **[Input price intelligence](#)** | Python pipeline joining historical and weekly price series for animal-nutrition inputs, producing an automated market report | Python, SQLite, Anthropic SDK, python-docx |
 | **[SQL Quest](#)** | Gamified SQL learning platform with a content pipeline driven by schema and exercise definitions | Python, SQL, YAML |
 | **[Garimpeii BR](#)** | Automated Instagram carousel publishing for a deals community, from offer intake to Graph API post | n8n, Groq API, htmlcsstoimage, Instagram Graph API |
