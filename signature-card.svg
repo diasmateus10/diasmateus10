@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="362" viewBox="0 0 480 362" role="img" aria-label="Mateus Dias, Revenue Intelligence Architect">
+<rect x="0.5" y="0.5" width="479" height="361" rx="10" fill="#0E1A24" stroke="#22394A"/><title>Mateus Dias — Revenue Intelligence Architect</title>
+<rect x="0" y="40" width="4" height="18" fill="#22394A"/>
+<rect x="0" y="88" width="4" height="18" fill="#22394A"/>
+<rect x="0" y="136" width="4" height="18" fill="#22394A"/>
+<rect x="0" y="184" width="4" height="18" fill="#22394A"/>
+<rect x="0" y="232" width="4" height="18" fill="#22394A"/>
+<rect x="0" y="280" width="4" height="18" fill="#22394A"/>
+<text x="34" y="62" font-family="Iowan Old Style, Palatino Linotype, Georgia, serif" font-size="34" fill="#E9E4D8">Mateus Dias</text>
+<text x="36" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#DFA33F">Revenue Intelligence Architect</text>
+<line x1="34" y1="104" x2="450" y2="104" stroke="#22394A"/>
+<text x="34" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8AA0AD">how a business question gets answered</text>
+<line x1="41" y1="144" x2="41" y2="276" stroke="#22394A" stroke-width="2"/>
+<circle cx="41" cy="146" r="3.5" fill="#57ABC6"/>
+<text x="58" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8AA0AD">TOTVS, SQL Server, Supabase, ComexStat</text>
+<circle cx="41" cy="176" r="3.5" fill="#57ABC6"/>
+<text x="58" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8AA0AD">Power Query and SQL modeling</text>
+<circle cx="41" cy="206" r="3.5" fill="#57ABC6"/>
+<text x="58" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8AA0AD">Fabric / Power BI semantic model</text>
+<circle cx="41" cy="236" r="3.5" fill="#57ABC6"/>
+<text x="58" y="240" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8AA0AD">DAX agent orchestrated in n8n</text>
+<circle cx="41" cy="266" r="3.5" fill="#DFA33F"/>
+<text x="58" y="270" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#E9E4D8">Answer delivered inside Teams</text>
+<text x="34" y="338" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8AA0AD">São Paulo, Brasil</text>
+<text x="450" y="338" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8AA0AD">4+ years in market intelligence</text>
+</svg>
