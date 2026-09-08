@@ -3,31 +3,31 @@
 
 ## Mateus Dias
 
-**Market Intelligence · Power BI & Microsoft Fabric · AI automation for revenue teams**
+**Senior Market Intelligence Analyst at M.Cassab · Power BI & Microsoft Fabric · AI automation for revenue teams**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mateus--jesusdias-0E1A24?style=for-the-badge&logo=linkedin&logoColor=57ABC6)](https://www.linkedin.com/in/mateus-jesusdias/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mateus--jesus-0E1A24?style=for-the-badge&logo=googlechrome&logoColor=DFA33F)](https://sites.google.com/view/mateus-jesus/p%C3%A1gina-inicial)
 [![Location](https://img.shields.io/badge/São_Paulo-Brazil-0E1A24?style=for-the-badge&logo=googlemaps&logoColor=E9E4D8)](#)
 
 I turn ERP and commercial data into systems that answer business questions on their own.
-Day to day that means semantic models in Power BI and Microsoft Fabric, DAX and Python
+At M.Cassab that means semantic models in Power BI and Microsoft Fabric, DAX and Python
 pipelines, and n8n agents that let a director ask a question in Teams and get a real
-number back. I work across Brazil, Argentina, Colombia and Paraguay, reporting into
-directors and shareholders.
+number back. I work across Brazil, China, Argentina, Colombia and Paraguay, reporting
+into directors and shareholders.
 
 ---
 
 ### What I build
 
 - **Semantic models people actually trust.** Fabric and Power BI models over SQL Server
-  and Postgres, with DAX that survives contact with real inventory, sales and supply
-  chain data — lot-level aging, weighted average cost, churn, commissions.
+and Postgres, with DAX that survives contact with real inventory, sales and supply
+chain data — lot-level aging, weighted average cost, churn, commissions.
 - **Agents on top of those models.** n8n workflows that translate a plain-language
-  question into a validated DAX query against the semantic model via the Power BI REST
-  API, then render the answer inside Teams.
+question into a validated DAX query against the semantic model via the Power BI REST
+API, then render the answer inside Teams.
 - **Market intelligence pipelines.** Python + LLM pipelines that pull public trade,
-  procurement and commodity data, join it to internal history, and produce a decision
-  document instead of a dashboard nobody opens.
+procurement and commodity data, join it to internal history, and produce a decision
+document instead of a dashboard nobody opens.
 
 ---
 
@@ -35,18 +35,18 @@ directors and shareholders.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **Sales Booster** <sub></sub> | Conversational agent that answers sales, inventory and stock-out questions in Teams by generating DAX against a Fabric semantic model | n8n, Power BI REST API, DAX, Azure Entra ID |
-| **[Input price intelligence](#)** | Python pipeline joining historical and weekly price series for animal-nutrition inputs, producing an automated market report | Python, SQLite, Anthropic SDK, python-docx |
-| **[SQL Quest](#)** | Gamified SQL learning platform with a content pipeline driven by schema and exercise definitions | Python, SQL, YAML |
-| **[Garimpeii BR](#)** | Automated Instagram carousel publishing for a deals community, from offer intake to Graph API post | n8n, Groq API, htmlcsstoimage, Instagram Graph API |
-| **Trade & procurement database** <sub>internal</sub> | Price intelligence base combining Compras.gov.br, IPEADATA and ANP series for sourcing and pricing decisions | Python, SQLite, public APIs |
+| **[Garmin Coach](https://github.com/diasmateus10/garmin_coach)** | Turns a Garmin data export into a daily readiness report, a macro-calibrated meal plan and a trends dashboard, with versioned prompts and zero operating cost | Python, Streamlit, Gemini API, SQLite, Plotly, fpdf2 |
+| **Sales Booster** <sub>internal, M.Cassab</sub> | Conversational agent that answers sales, inventory and stock-out questions in Teams by generating DAX against a Fabric semantic model | n8n, Power BI REST API, DAX, Azure Entra ID |
+| **Input price intelligence** <sub>internal, M.Cassab</sub> | Python pipeline joining historical and weekly price series for animal-nutrition inputs, producing an automated market report | Python, SQLite, LLM API, python-docx |
+| **Trade & procurement database** <sub>internal, M.Cassab</sub> | Price intelligence base combining Compras.gov.br, IPEADATA and ANP series for sourcing and pricing decisions | Python, SQLite, public APIs |
+| **Garimpeii BR** | Automated Instagram carousel publishing for a deals community, from offer intake to Graph API post | n8n, Groq API, htmlcsstoimage, Instagram Graph API |
 
 ---
 
 ### Stack
 
 `Power BI` `Microsoft Fabric` `DAX` `Power Query (M)` `SQL Server` `T-SQL`
-`Postgres / Supabase` `Python` `pandas` `n8n` `Power Automate` `VBA`
+`Postgres / Supabase` `Python` `pandas` `Streamlit` `n8n` `Power Automate` `VBA`
 `Claude Code` `Codex CLI` `Git`
 
 ---
