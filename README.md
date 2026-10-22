@@ -36,6 +36,7 @@ document instead of a dashboard nobody opens.
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[Garmin Coach](https://github.com/diasmateus10/garmin_coach)** | Turns a Garmin data export into a daily readiness report, a macro-calibrated meal plan and a trends dashboard, with versioned prompts and zero operating cost | Python, Streamlit, Gemini API, SQLite, Plotly, fpdf2 |
+| **[AprendeAI](https://github.com/diasmateus10/aprendeai)** <sub>[live](https://aprendeai-ruby.vercel.app)</sub> | English speaking and listening trainer for Brazilian learners: adaptive placement test, pronunciation drills scored by speech recognition, picture flashcards answered out loud, and a 5-minute voice conversation with an AI tutor whose personality the learner picks | React, TypeScript, Vite, Web Speech API, Gemini API, Vercel serverless |
 | **Sales Booster** <sub>internal, M.Cassab</sub> | Conversational agent that answers sales, inventory and stock-out questions in Teams by generating DAX against a Fabric semantic model | n8n, Power BI REST API, DAX, Azure Entra ID |
 | **Input price intelligence** <sub>internal, M.Cassab</sub> | Python pipeline joining historical and weekly price series for animal-nutrition inputs, producing an automated market report | Python, SQLite, LLM API, python-docx |
 | **Trade & procurement database** <sub>internal, M.Cassab</sub> | Price intelligence base combining Compras.gov.br, IPEADATA and ANP series for sourcing and pricing decisions | Python, SQLite, public APIs |
@@ -47,6 +48,7 @@ document instead of a dashboard nobody opens.
 
 `Power BI` `Microsoft Fabric` `DAX` `Power Query (M)` `SQL Server` `T-SQL`
 `Postgres / Supabase` `Python` `pandas` `Streamlit` `n8n` `Power Automate` `VBA`
+`TypeScript` `React` `Vite` `Vercel` `Gemini API`
 `Claude Code` `Codex CLI` `Git`
 
 ---
